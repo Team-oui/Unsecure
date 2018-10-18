@@ -27,7 +27,7 @@ Branches must be named according to the following rules :
 2. There must be a description (short or long) explaining the bug, feature or hotfix
 3. Your commits must be signed otherwise it won't be accepted
 
- 
+  
 ## Any contributions you make will be under the MIT Software License
 
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](https://choosealicense.com/licenses/mit/) that covers the project.
