@@ -42,4 +42,5 @@ Who reviews it? When should a contributor expect to hear from you?
 
 The core team looks at Pull Requests daily, they also review each one of them.
 When the pull request is correctly done, the contributor is notified by an email saying that the contribution has been approved.
+In the other hand, the contributor is also notified about the failure of it.
 
