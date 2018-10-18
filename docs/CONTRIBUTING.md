@@ -8,7 +8,7 @@ Be sure to communicate either in english or french in order to be understood by 
 
 ## Pull Request Process
 
-Follow the pull request process by clicking [here](PULL_REQUEST.md).
+Follow the Pull Request process by clicking [here](PULL_REQUEST.md).
 
 
 ## Working on our repository
@@ -41,6 +41,6 @@ Feel free to contact the maintainers if that's a concern.
 Who reviews it? When should a contributor expect to hear from you?
 
 The core team looks at Pull Requests daily, they also review each one of them.
-When the pull request is correctly done, the contributor is notified by an email saying that the contribution has been approved.
+When the Pull Request is correctly done, the contributor is notified by an email saying that the contribution has been approved.
 In the other hand, the contributor is also notified about the failure of it.
 
