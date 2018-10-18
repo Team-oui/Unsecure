@@ -16,7 +16,7 @@ Be sure to communicate either in english or french in order to be understood by 
 Branches must be named according to the following rules :
 
 1. "bugs/short_name_of_the_bug" for bugs
-2. "features/short_feature_description
+2. "features/short_feature_description for features
 3. "fixes/short_name_for_the_fix" for hotfixes
 
 ### Commits
