@@ -34,7 +34,7 @@ In short, when you submit code changes, your submissions are understood to be un
 Feel free to contact the maintainers if that's a concern.
 
 
-## Code review process
+## Code Review Process
 
 ### How a contribution gets accepted after it’s been submitted ?
 
