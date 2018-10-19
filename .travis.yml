@@ -10,9 +10,9 @@ after_script:
   # Install the Heroku gem (or the Heroku toolbelt)
   - gem install heroku
   # Add your Heroku git repo:
-  - git remote add heroku git@heroku.com:YOUR_HEROKU_APP.git
+  - git remote add heroku git@heroku.com:unsecured.git
   # Add your Heroku API key:
-  - export HEROKU_API_KEY=YOUR_HEROKU_API_KEY_HERE
+  - export HEROKU_API_KEY=ab982910-992a-4a2a-b24d-2503e7414cc8
   # Turn off warnings about SSH keys:
   - echo "Host heroku.com" >> ~/.ssh/config
   - echo "   StrictHostKeyChecking no" >> ~/.ssh/config
