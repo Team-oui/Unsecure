@@ -11,7 +11,7 @@ deploy:
   provider: heroku
   api_key:
     secure: ab982910-992a-4a2a-b24d-2503e7414cc8
-  app: unsecured
+  app: Team-oui/Unsecure
   strategy: git
   on:
     repo: Team-oui/Unsecure
