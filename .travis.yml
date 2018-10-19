@@ -1,0 +1,16 @@
+php:
+    - 7.2.10
+
+before_script:
+  - composer install
+
+script:
+  - phpunit -c app
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: ab982910-992a-4a2a-b24d-2503e7414cc8
+  app: unsecured
+  on:
+    repo: Team-oui/Unsecure
