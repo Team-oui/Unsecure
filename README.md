@@ -8,7 +8,7 @@ Unsecure is a project made to setup the basic securities and rules to work as a 
 
 There are some documentation that you should read first before contributing on the project :
 
-- [CONTRIBUTING.md](docs/CONTRIBUTING.md)in order to learn about the rules we have set to work on a feature
+- [CONTRIBUTING.md](docs/CONTRIBUTING.md) in order to learn about the rules we have set to work on a feature
 - [PULL_REQUEST.md](docs/PULL_REQUEST.md)for our pull request process
 
 ## REQUESTING A FEATURE OR REPORTING A PROBLEM
