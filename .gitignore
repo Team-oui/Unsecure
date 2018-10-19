@@ -2,3 +2,4 @@ app/config/*
 app/logs/*
 app/cache/*
 vendor/
+app/logs/dev.log
