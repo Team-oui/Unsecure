@@ -12,5 +12,6 @@ deploy:
   api_key:
     secure: ab982910-992a-4a2a-b24d-2503e7414cc8
   app: unsecured
+  strategy: git
   on:
     repo: Team-oui/Unsecure
